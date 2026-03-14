@@ -1,0 +1,36 @@
+# Build outputs
+bin/
+obj/
+
+# User and IDE-specific files
+.vs/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider/JetBrains
+.idea/
+*.sln.iml
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets and local environment
+.env
+.env.*.local
+
+# Local planning/notes
+LESSON_PLAN_AND_ROADMAP.txt
+
+# NuGet packages cache folder (if created in repo)
+packages/
