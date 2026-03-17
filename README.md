@@ -54,8 +54,7 @@ Example:
 
 ```env
 OPENWEATHER_API_KEY=your_key_here
-OPENWEATHER_GEO_URL=http://api.openweathermap.org/geo/1.0
-OPENWEATHER_WEATHER_URL=https://api.openweathermap.org/data/2.5
+OPENWEATHER_BASE_URL=http://api.openweathermap.org
 ```
 
 4. Run the app
